@@ -2,8 +2,7 @@
 ### 👋 Hi, I'm Mozzammel Ridoy
 #### 🔹 MERN Stack Developer | YouTube Educator | Tech Enthusiast 
 
-I am a MERN Stack Developer with expertise in building dynamic web applications using React.js, Node.js, Express.js, and MongoDB. I focus on creating secure, scalable solutions with seamless frontend-backend integration. Through my YouTube channel, I’ve shared over 185 tutorials on the MERN stack, helping others grow as developers. I’m passionate about continuous learning and solving complex challenges.
- I am constantly expanding my knowledge and passionate about tackling complex technical challenges with innovative solutions.
+As a skilled MERN Stack Developer, I specialize in building high-performance, dynamic web applications using React.js, Node.js, Express.js, and MongoDB. My focus lies in crafting secure, scalable solutions with seamless frontend-backend integration. With over 185 tutorial videos on my YouTube channel, I am dedicated to empowering others to learn and excel in the MERN stack and modern web technologies. I am constantly expanding my knowledge and passionate about tackling complex technical challenges with innovative solutions.
 
 
 Skills: React.js / Node.js / Express.js / MongoDb
