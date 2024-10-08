@@ -48,7 +48,18 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> 
+  <img src="https://img.shields.io/github/followers/MozzammelRidoy?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MozzammelRidoy?label=GitHub%20Stars&style=flat-square" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-JS-blue?style=flat-square&logo=react" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Node.js-JS-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-framework-lightgrey?style=flat-square&logo=express" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-database-green?style=flat-square&logo=mongodb" alt="MongoDB" />
 
+
+</p>
 
 
 
@@ -63,18 +74,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   </tr>
 </table>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> 
-  <img src="https://img.shields.io/github/followers/MozzammelRidoy?label=Followers&style=flat-square" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/MozzammelRidoy?label=GitHub%20Stars&style=flat-square" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-JS-blue?style=flat-square&logo=react" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/Node.js-JS-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-framework-lightgrey?style=flat-square&logo=express" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-database-green?style=flat-square&logo=mongodb" alt="MongoDB" />
 
-
-</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozzammelridoy" alt="mozzammelridoy" /></a> </p>
 
