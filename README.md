@@ -10,23 +10,23 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-JS-blue?style=flat-square&logo=react" alt="ReactJS" />
   <img src="https://img.shields.io/badge/Node.js-JS-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-database-green?style=flat-square&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Express.js-framework-lightgrey?style=flat-square&logo=express" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-database-green?style=flat-square&logo=mongodb" alt="MongoDB" />
 
 
 </p>
 <p>
    
- <a href="https://github.com/MozzammelRidoy" target="blank">
+ <a href="https://github.com/MozzammelRidoy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/MozzammelRidoy/" target="blank">
+  <a href="https://www.linkedin.com/in/MozzammelRidoy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@MozzammelRidoy" target="blank">
+  <a href="https://www.youtube.com/@MozzammelRidoy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.facebook.com/MozzammelRidoy" target="blank">
+  <a href="https://www.facebook.com/MozzammelRidoy" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
