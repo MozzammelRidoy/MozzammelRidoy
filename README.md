@@ -7,6 +7,15 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> 
   <img src="https://img.shields.io/github/followers/MozzammelRidoy?label=Followers&style=flat-square" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/MozzammelRidoy?label=GitHub%20Stars&style=flat-square" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-JS-blue?style=flat-square&logo=react" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Node.js-JS-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-database-green?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-framework-lightgrey?style=flat-square&logo=express" alt="Express.js" />
+  <img src="https://img.shields.io/github/license/MozzammelRidoy/Web-Dev-Mission?style=flat-square" alt="License" />
+
+
+ 
 
 
 
