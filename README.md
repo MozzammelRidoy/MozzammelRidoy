@@ -36,6 +36,8 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   </tr>
 </table>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MozzammelRidoy" alt="MozzammelRidoy" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
