@@ -3,6 +3,7 @@
 
 As a skilled MERN Stack Developer, I specialize in building high-performance, dynamic web applications using React.js, Node.js, Express.js, and MongoDB. My focus lies in crafting secure, scalable solutions with seamless frontend-backend integration. With over 185 tutorial videos on my YouTube channel, I am dedicated to empowering others to learn and excel in the MERN stack and modern web technologies. I am constantly expanding my knowledge and passionate about tackling complex technical challenges with innovative solutions.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> </p>
 
 
 <h3 align="center">My Tech Stack</h3>
@@ -35,7 +36,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
