@@ -5,6 +5,16 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> 
+  <img src="https://img.shields.io/github/followers/MozzammelRidoy?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MozzammelRidoy?label=GitHub%20Stars&style=flat-square" alt="GitHub Stars" />
+
+
+
+
+
+
+
+  
  <a href="https://github.com/MozzammelRidoy" target="blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
