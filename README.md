@@ -70,3 +70,47 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MozzammelRidoy&theme=react-dark" alt="GitHub Activity Graph">
 </p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MozzammelRidoy&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MozzammelRidoy&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/MozzammelRidoy/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MozzammelRidoy&repo=repo1&theme=radical">
+  </a>
+  <a href="https://github.com/MozzammelRidoy/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MozzammelRidoy&repo=repo2&theme=radical">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.youtube.com/@MozzammelRidoy">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
+  </a>
+  <a href="https://github.com/MozzammelRidoy">
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/MozzammelRidoy/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
+
+
