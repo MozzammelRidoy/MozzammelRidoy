@@ -30,6 +30,12 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 <a href="https://www.youtube.com/c/mozzammelridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mozzammelridoy" height="30" width="40" /></a>
 </p>
 
+<p>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MozzammelRidoy&show_icons=true&theme=radical)
+  
+</p>
+
 
 
 
