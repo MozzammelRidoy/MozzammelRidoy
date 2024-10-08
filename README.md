@@ -1,4 +1,10 @@
 ![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dsh57dvqf/image/upload/v1728386791/Purple_Blue_Modern_Gaming_Youtube_Thumbnail_1_d5ojjf.png)
+
+
+### 👋 Hi, I'm Mozzammel Ridoy
+
+As a skilled MERN Stack Developer, I specialize in building high-performance, dynamic web applications using React.js, Node.js, Express.js, and MongoDB. My focus lies in crafting secure, scalable solutions with seamless frontend-backend integration. With over 185 tutorial videos on my YouTube channel, I am dedicated to empowering others to learn and excel in the MERN stack and modern web technologies. I am constantly expanding my knowledge and passionate about tackling complex technical challenges with innovative solutions.
+
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -14,10 +20,6 @@
   <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="40" height="40"/>
 </p>
-
-### 👋 Hi, I'm Mozzammel Ridoy
-
-As a skilled MERN Stack Developer, I specialize in building high-performance, dynamic web applications using React.js, Node.js, Express.js, and MongoDB. My focus lies in crafting secure, scalable solutions with seamless frontend-backend integration. With over 185 tutorial videos on my YouTube channel, I am dedicated to empowering others to learn and excel in the MERN stack and modern web technologies. I am constantly expanding my knowledge and passionate about tackling complex technical challenges with innovative solutions.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> 
