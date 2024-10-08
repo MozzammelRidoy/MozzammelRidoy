@@ -12,30 +12,11 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://img.shields.io/badge/Node.js-JS-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-database-green?style=flat-square&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Express.js-framework-lightgrey?style=flat-square&logo=express" alt="Express.js" />
-  <img src="https://img.shields.io/github/license/MozzammelRidoy/Web-Dev-Mission?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/github/commit-activity/y/MozzammelRidoy/Web-Dev-Mission?style=flat-square" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/languages/top/MozzammelRidoy/Web-Dev-Mission?style=flat-square" alt="Top Language" />
-  <img src="https://img.shields.io/codacy/grade/gh/MozzammelRidoy/Web-Dev-Mission?style=flat-square" alt="Codacy Grade" />
-  <img src="https://img.shields.io/codacy/grade/gh/MozzammelRidoy/Web-Dev-Mission?style=flat-square" alt="Codacy Grade" />
-  <img src="https://img.shields.io/github/issues/MozzammelRidoy/Web-Dev-Mission?style=flat-square" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/issues-pr/MozzammelRidoy/Web-Dev-Mission?style=flat-square" alt="GitHub Pull Requests" />
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-YourWebsiteName-blue?style=flat-square&logo=google-chrome" alt="Website" /></a>
 
 
-
-
-
-
-
- 
-
-
-
-
-
-
-
-  
+</p>
+<p>
+   
  <a href="https://github.com/MozzammelRidoy" target="blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
