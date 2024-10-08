@@ -38,6 +38,19 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozzammelridoy" alt="mozzammelridoy" /></a> </p>
 
-
+<p align="left">
+  <a href="https://github.com/MozzammelRidoy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/MozzammelRidoy/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@MozzammelRidoy" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/MozzammelRidoy" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
 
 
