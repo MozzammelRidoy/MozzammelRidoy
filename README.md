@@ -15,7 +15,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 
 </p>
-<p align="right">
+<p align="center">
    
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MozzammelRidoy)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MozzammelRidoy)
