@@ -30,12 +30,16 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 <a href="https://www.youtube.com/c/mozzammelridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mozzammelridoy" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MozzammelRidoy&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozzammelRidoy&layout=compact" alt="Top Langs" />
-</p>
-
-
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MozzammelRidoy&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozzammelRidoy&layout=compact" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 
 
