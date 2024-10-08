@@ -3,7 +3,21 @@
 
 As a skilled MERN Stack Developer, I specialize in building high-performance, dynamic web applications using React.js, Node.js, Express.js, and MongoDB. My focus lies in crafting secure, scalable solutions with seamless frontend-backend integration. With over 185 tutorial videos on my YouTube channel, I am dedicated to empowering others to learn and excel in the MERN stack and modern web technologies. I am constantly expanding my knowledge and passionate about tackling complex technical challenges with innovative solutions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mozzammelridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mozzammelridoy" /> 
+<a href="https://github.com/MozzammelRidoy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/MozzammelRidoy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@MozzammelRidoy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.facebook.com/MozzammelRidoy" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 
 <h3 align="center">My Tech Stack</h3>
@@ -38,19 +52,5 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozzammelridoy" alt="mozzammelridoy" /></a> </p>
 
-<p align="left">
-  <a href="https://github.com/MozzammelRidoy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/MozzammelRidoy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@MozzammelRidoy" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.facebook.com/MozzammelRidoy" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
 
 
