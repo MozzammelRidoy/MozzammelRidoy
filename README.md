@@ -15,7 +15,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="40" height="40"/>
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express" width="40" height="40"/>
   <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="40" height="40"/>
