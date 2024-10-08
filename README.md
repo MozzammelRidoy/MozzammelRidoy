@@ -39,18 +39,18 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 ### 📝 My YouTube Playlists
 
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb7j-DOuuGREEHrFuHfttcNq" target="_blank">
-  <img src="https://img.youtube.com/vi/<FIRST_VIDEO_ID_FRONTEND>/hqdefault.jpg" alt="Frontend Development Playlist" width="300" />
-  <p align="center">Frontend Development (10 Videos)</p>
+  <img src="https://img.youtube.com/vi/Dxd7nJsEtTU/hqdefault.jpg" alt="Frontend Development Playlist" width="300" />
+  <p align="center">Frontend Development (104 Videos)</p>
 </a>
 
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5wxRqMczBw88GbeXaKWb6H" target="_blank">
-  <img src="https://img.youtube.com/vi/<FIRST_VIDEO_ID_BACKEND>/hqdefault.jpg" alt="Backend Development Playlist" width="300" />
-  <p align="center">Backend Development (12 Videos)</p>
+  <img src="https://img.youtube.com/vi/J-BR9-8Rogk/hqdefault.jpg" alt="Backend Development Playlist" width="300" />
+  <p align="center">Backend Development (78 Videos)</p>
 </a>
 
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5rCI7vM1A-i-0w1rnrqXKl" target="_blank">
-  <img src="https://img.youtube.com/vi/<FIRST_VIDEO_ID_MERN>/hqdefault.jpg" alt="MERN Stack Playlist" width="300" />
-  <p align="center">MERN Stack Development (8 Videos)</p>
+  <img src="https://img.youtube.com/_iYOs2Twcp8/hqdefault.jpg" alt="MERN Stack Playlist" width="300" />
+  <p align="center">MERN Stack Development (182 Videos)</p>
 </a>
 
 
