@@ -39,17 +39,24 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozzammelridoy" alt="mozzammelridoy" /></a> </p>
 
 <p align="left">
-  <a href="https://github.com/MozzammelRidoy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://github.com/MozzammelRidoy" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="30" />
+    <span style="color: white; background-color: #333; padding: 5px 10px; border-radius: 5px;">GitHub</span>
   </a>
-  <a href="https://www.linkedin.com/in/MozzammelRidoy/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/MozzammelRidoy/" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+    <span style="color: white; background-color: #0A66C2; padding: 5px 10px; border-radius: 5px;">LinkedIn</span>
   </a>
-  <a href="https://www.youtube.com/@MozzammelRidoy" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@MozzammelRidoy" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="30" />
+    <span style="color: white; background-color: #FF0000; padding: 5px 10px; border-radius: 5px;">YouTube</span>
   </a>
-  <a href="https://www.facebook.com/MozzammelRidoy" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/MozzammelRidoy" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="30" />
+    <span style="color: white; background-color: #1877F2; padding: 5px 10px; border-radius: 5px;">Facebook</span>
   </a>
 </p>
 
