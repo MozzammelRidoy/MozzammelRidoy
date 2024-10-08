@@ -5,8 +5,8 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
+<h3 align="left">My Tech Stack : </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://framerusercontent.com/images/YpBCxntFUx1XOzWhmAalGOq3xI.jpg" alt="bootstrap" width="40" height="40"/>
