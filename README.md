@@ -36,6 +36,12 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 </p>
 
 
+### 📝 Latest YouTube Playlists
+- [React.js Basics](https://www.youtube.com/playlist?list=PLdckfeEPXTb7j-DOuuGREEHrFuHfttcNq)
+- [Backend Twist](https://www.youtube.com/playlist?list=PLdckfeEPXTb5wxRqMczBw88GbeXaKWb6H)
+- [MERN Stack Tutorial](https://www.youtube.com/playlist?list=PLdckfeEPXTb5wxRqMczBw88GbeXaKWb6H)
+
+
 
 
 
