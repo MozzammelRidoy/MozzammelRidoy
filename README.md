@@ -27,7 +27,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MozzammelRidoy&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MozzammelRidoy&show_icons=true&theme=highcontrast" alt="Anurag's GitHub stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozzammelRidoy&layout=compact" alt="Top Langs" />
