@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dsh57dvqf/image/upload/v1728385297/Purple_Blue_Modern_Gaming_Youtube_Thumbnail_y2wtzw.png)
+![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dsh57dvqf/image/upload/v1728386791/Purple_Blue_Modern_Gaming_Youtube_Thumbnail_1_d5ojjf.png)
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
 
