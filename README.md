@@ -40,17 +40,14 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb7j-DOuuGREEHrFuHfttcNq" target="_blank">
   <img src="https://img.youtube.com/vi/Dxd7nJsEtTU/hqdefault.jpg" alt="Frontend Development Playlist" width="300" />
-  <p align="center">Frontend Development (104 Videos)</p>
 </a>
 
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5wxRqMczBw88GbeXaKWb6H" target="_blank">
   <img src="https://img.youtube.com/vi/J-BR9-8Rogk/hqdefault.jpg" alt="Backend Development Playlist" width="300" />
-  <p align="center">Backend Development (78 Videos)</p>
 </a>
 
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5rCI7vM1A-i-0w1rnrqXKl" target="_blank">
-  <img src="https://img.youtube.com/_iYOs2Twcp8/hqdefault.jpg" alt="MERN Stack Playlist" width="300" />
-  <p align="center">MERN Stack Development (182 Videos)</p>
+  <img src="https://img.youtube.com/vi/HO9MPZu3Dms/hqdefault.jpg" alt="MERN Stack Playlist" width="300" />
 </a>
 
 
