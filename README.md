@@ -33,6 +33,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 <p>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MozzammelRidoy&show_icons=true&theme=radical)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MozzammelRidoy)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
 
