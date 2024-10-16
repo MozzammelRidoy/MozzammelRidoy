@@ -38,15 +38,15 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 ### 📝 My YouTube Playlists
 <p align="center">
-   <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5rCI7vM1A-i-0w1rnrqXKl" target="_blank">
+   <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5rCI7vM1A-i-0w1rnrqXKl" target="blank">
   <img src="https://res.cloudinary.com/dsh57dvqf/image/upload/v1729086127/Copy_of_Black_and_Yellow_Grunge_Cooking_Youtube_Thumbnail_nlapym.png" alt="MERN Stack Development Playlist" width="300" />
 </a>
 
-<a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb7j-DOuuGREEHrFuHfttcNq" target="_blank">
+<a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb7j-DOuuGREEHrFuHfttcNq" target="blank">
   <img src="https://img.youtube.com/vi/Dxd7nJsEtTU/hqdefault.jpg" alt="Frontend Development Playlist" width="300" />
 </a>
 
-<a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5wxRqMczBw88GbeXaKWb6H" target="_blank">
+<a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5wxRqMczBw88GbeXaKWb6H" target="blank">
   <img src="https://img.youtube.com/vi/J-BR9-8Rogk/hqdefault.jpg" alt="Backend Development Playlist" width="300" />
 </a>
 </p>
