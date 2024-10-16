@@ -48,7 +48,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://img.youtube.com/vi/J-BR9-8Rogk/hqdefault.jpg" alt="Backend Development Playlist" width="300" />
 </a>
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5rCI7vM1A-i-0w1rnrqXKl" target="_blank">
-   <img src="https://img.youtube.com/vi/Dxd7nJsEtTU/0w1rnrqXKl.jpg" alt="Frontend Development Playlist" width="300" />
+   <img src="https://img.youtube.com/vi/0w1rnrqXKl/hqdefault.jpg" alt="Frontend Development Playlist" width="300" />
 </a>
 
 
