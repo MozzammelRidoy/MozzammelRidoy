@@ -38,9 +38,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 ### 📝 My YouTube Playlists
 
-   <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb5rCI7vM1A-i-0w1rnrqXKl" target="_blank">
-  <img src="https://res.cloudinary.com/dsh57dvqf/image/upload/v1729086127/Copy_of_Black_and_Yellow_Grunge_Cooking_Youtube_Thumbnail_nlapym.png" alt="MERN Stack Development Playlist" width="300" />
-</a>
+   
 
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb7j-DOuuGREEHrFuHfttcNq" target="_blank">
   <img src="https://img.youtube.com/vi/Dxd7nJsEtTU/hqdefault.jpg" alt="Frontend Development Playlist" width="300" />
