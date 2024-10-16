@@ -39,7 +39,8 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 ### 📝 My YouTube Playlists
 
    
-
+<p align="center" width="100">
+   
 <a href="https://www.youtube.com/playlist?list=PLdckfeEPXTb7j-DOuuGREEHrFuHfttcNq" target="_blank">
   <img src="https://img.youtube.com/vi/Dxd7nJsEtTU/hqdefault.jpg" alt="Frontend Development Playlist" width="300" />
 </a>
@@ -50,6 +51,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 <a href="https://youtube.com/playlist?list=PLdckfeEPXTb5rCI7vM1A-i-0w1rnrqXKl" target="_blank">
   <img src="https://i.ytimg.com/pl_c/PLdckfeEPXTb5rCI7vM1A-i-0w1rnrqXKl/studio_square_thumbnail.jpg?sqp=CIbJv7gG-oaymwEICNYGEOADSFqi85f_AwYI9_y-uAY=&rs=AOn4CLCuN1AZzueUlHdCMc5gnEgpiT-96g" alt="MERN Stack Development Playlist" width="300" />
 </a>
+</p>
 
 
 
