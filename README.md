@@ -72,7 +72,10 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://img.shields.io/badge/Express.js-framework-lightgrey?style=flat-square&logo=express" alt="Express.js" />
   <img src="https://img.shields.io/badge/Mongoose-ODM-red?style=flat-square&logo=mongoose" alt="Mongoose" />
   <img src="https://img.shields.io/badge/MongoDB-database-green?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-database-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
 
 
 
