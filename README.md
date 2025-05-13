@@ -68,6 +68,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-TS-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-JS-blue?style=flat-square&logo=react" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Redux-toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Node.js-JS-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-framework-lightgrey?style=flat-square&logo=express" alt="Express.js" />
   <img src="https://img.shields.io/badge/Mongoose-ODM-red?style=flat-square&logo=mongoose" alt="Mongoose" />
