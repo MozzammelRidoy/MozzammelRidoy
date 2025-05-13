@@ -34,7 +34,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://raw.githubusercontent.com/colinhacks/zod/HEAD/logo.svg" alt="Zod" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="40" height="40"/>
   <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" alt="MongoDB" width="40" height="40"/>
- <img src="https://w7.pngwing.com/pngs/929/464/png-transparent-prisma-hd-logo-thumbnail.png" alt="Prisma" width="40" height="40" style="background:white; border-radius:50%; padding:4px;"/>
+ <img src="https://logowik.com/content/uploads/images/prisma2244.jpg" alt="Prisma" width="40" height="40" style="background:white; border-radius:50%; padding:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="40" height="40"/>
   
