@@ -4,7 +4,7 @@
 ### 👋 Hi, I'm Mozzammel Ridoy
 
 As a skilled MERN Stack Developer, I specialize in building high-performance, dynamic web applications using TypeScript & JavaScript, React.js, Node.js, Express.js, Mongoose, and MongoDB. My focus lies in crafting secure, scalable solutions with seamless frontend-backend integration. With over 185 tutorial videos on my YouTube channel, I am dedicated to empowering others to learn and excel in the MERN stack and modern web technologies. I am constantly expanding my knowledge and passionate about tackling complex technical challenges with innovative solutions.
-<p align="center">
+<div align="center">
    
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MozzammelRidoy)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MozzammelRidoy)
@@ -14,7 +14,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
 
 
 
-</p>
+</div>
 
 
 
