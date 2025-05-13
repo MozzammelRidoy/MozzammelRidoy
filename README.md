@@ -24,7 +24,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://framerusercontent.com/images/YpBCxntFUx1XOzWhmAalGOq3xI.jpg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-   <img src="https://redux-toolkit.js.org/img/redux-toolkit.svg" alt="Redux Toolkit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Toolkit" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -36,7 +36,7 @@ As a skilled MERN Stack Developer, I specialize in building high-performance, dy
   <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="40" height="40"/>
   <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/static/images/logo.svg" alt="Prisma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/prisma/prisma/next/docs/static/images/logo.svg" alt="Prisma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   
 </p>
