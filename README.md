@@ -3,18 +3,21 @@
 
 ### 👋 Hi, I'm Mozzammel Ridoy
 
-As a skilled MERN Stack Developer, I specialize in building high-performance, dynamic web applications using TypeScript & JavaScript, React.js, Node.js, Express.js, Mongoose, and MongoDB. My focus lies in crafting secure, scalable solutions with seamless frontend-backend integration. With over 185 tutorial videos on my YouTube channel, I am dedicated to empowering others to learn and excel in the MERN stack and modern web technologies. I am constantly expanding my knowledge and passionate about tackling complex technical challenges with innovative solutions.
+💻 Backend-Oriented Full Stack Developer with 1.6+ years of professional experience, specializing in Node.js, Express.js, MongoDB, and PostgreSQL. Experienced in building scalable, secure, and high-performance backend systems integrated with modern front-end applications using React.js.
+
+🚀 Creator of 185+ MERN and backend tutorials on YouTube, sharing practical development knowledge and real-world project experience. Passionate about tackling complex technical challenges, optimizing backend performance, and continuously exploring new technologies to deliver efficient, production-ready software solutions.
+
 <div align="center">
    
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MozzammelRidoy)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MozzammelRidoy)
+  [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~dev.mozzammel.ridoy)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MozzammelRidoy/)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MozzammelRidoyAR)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mozzammelridoy@gmail.com)
 
-
-
 </div>
+
 
 
 
