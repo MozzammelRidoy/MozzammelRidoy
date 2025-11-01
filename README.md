@@ -20,7 +20,6 @@
 
 
 
-
 <p align="center"> 
   <!-- Core Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -34,9 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Toolkit" width="40" height="40"/>
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Router DOM" width="40" height="40"/>
-  <img src="https://react-hook-form.com/images/logo.svg" alt="React Hook Form" width="40" height="40"/>
-  
+  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" alt="React Hook Form" width="40" height="40"/>
+
   <!-- Backend -->
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="40" height="40"/>
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express" width="40" height="40"/>
@@ -49,26 +47,25 @@
   <img src="https://logowik.com/content/uploads/images/prisma2244.jpg" alt="Prisma" width="50" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 
-  <!-- Next.js & Misc -->
-  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="40" height="40"/>
+  <!-- Advanced Stack -->
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
   <img src="https://vitest.dev/logo.svg" alt="Vitest" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Nginx_logo.svg" alt="Nginx" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Kafka_logo.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/RabbitMQ_logo.svg" alt="RabbitMQ" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" width="40" height="40"/>
 
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/VS_Code_icon.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Vercel_logo.svg" alt="Vercel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Netlify_logo.svg" alt="Netlify" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
 </p>
 
 
