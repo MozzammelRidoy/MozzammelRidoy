@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dsh57dvqf/image/upload/v1762185917/Purple_Blue_Modern_Gaming_Youtube_Thumbnail_12_tabm95.png)
+![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dsh57dvqf/image/upload/v1762186170/Purple_Blue_Modern_Gaming_Youtube_Thumbnail_12_wuhbet.png)
 
 
 ### 👋 Hi, I'm Mozzammel Ridoy
